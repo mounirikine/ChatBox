@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037118513656",
+    "project_id": "first-59545",
+    "storage_bucket": "first-59545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037118513656:android:588a3ded65ae591a99360d",
+        "android_client_info": {
+          "package_name": "com.example.mysqpl_with_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhKAx6vMe-z2w6Db_wXp-5t3jfQeHkh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
