@@ -1,6 +1,6 @@
-# mysqpl_with_flutter
+# ChatBox
 
-A new Flutter project.
+![Screenshot_1711623596](https://github.com/mounirikine/ChatBox/assets/123315845/f01cf5c8-6c5b-4fd0-8156-6567012b7d47)
 
 ## Getting Started
 
